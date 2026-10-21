@@ -5,7 +5,7 @@ End-to-end smart water network pipeline:
 | Component | Purpose |
 |-----------|---------|
 | **GJA** (Gekko Japonicus Algorithm) | Optimal sensor node selection |
-| **ADQ-CL** (Autoencoder + Deep Q + EWC) | Leakage detection with continual learning |
+| **ADQ-CL** (Autoencoder + Deep Q + continual learning ) | Leakage detection with continual learning |
 | **SmartWaterNet** (ST-Graph) | Water quality classification |
 | **WaterQualityPredictor** | Turbidity & DO multi-output regression |
 | **LeakRateEstimator** | Leak rate regression |
